@@ -9,13 +9,12 @@ Better yet, [go to the repo[(https://github.com/cogdog/fork-on-the-range/tree/gh
 
 Notice that the pattern is:
 
-```(1) Intro line that ends in a rhymmable word
-(2) Second Like that builds and ends in another rhyme
-(3) Third coupler HERE that rhymes again DEAR
-(4) Bring together ends by rhyming line 2 in time
-```
+    (1) Intro line that ends in a rhymmable word
+    (2) Second Like that builds and ends in another rhyme
+    (3) Third coupler HERE that rhymes again DEAR
+    (4) Bring together ends by rhyming line 2 in time
 
---- 
+------
 
 ## Fork on the Range (a new GitHub Classic)
 

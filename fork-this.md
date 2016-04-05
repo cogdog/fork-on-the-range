@@ -18,50 +18,66 @@ Notice that the pattern is:
 
 ## Fork on the Range (a new GitHub Classic)
 
+```
 Oh, fork me a repo where the edits go
 Where the Brave and the Fearless play;
 Where seldom is fomented a negative comment,
 And the remixes happen all day.
+```
 
 #### Chorus
+
+```
 A repo! A repo!
 Where the Brave and the Fearless play;
 Where seldom is heard a discouraging word,
 And the sky is not cloudy all day.
+```
 
+```
 Oh! give me a land where the bright diamond sand
 Throws its light from the glittering streams,
 Where glideth along the graceful white swan,
 Like the maid in her heavenly dreams.
 
-** Chorus **
+```
 
+**Chorus**
+
+```
 Oh! give me a gale of the Solomon vale,
 Where the life streams with buoyancy flow;
 On the banks of the Beaver, where seldom if ever,
 Any poisonous herbage doth grow.
+```
 
-** Chorus **
+**Chorus**
 
+```
 How often at night, when the heavens were bright,
 With the light of the twinkling stars
 Have I stood here amazed, and asked as I gazed,
 If their glory exceed that of ours.
+```
 
-** Chorus **
+**Chorus**
 
+```
 I love the wild flowers in this bright land of ours,
 I love the wild curlew's shrill scream;
 The bluffs and white rocks, and antelope flocks
 That graze on the mountains so green.
+```
 
-** Chorus **
+**Chorus**
 
+```
 The air is so pure and the breezes so fine,
 The zephyrs so balmy and light,
 That I would not exchange my home here to range
 Forever in azures so bright.
+```
 
-** Chorus **
+**Chorus**
 
 

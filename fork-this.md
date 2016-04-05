@@ -38,7 +38,7 @@ And the sky is not cloudy all day.
 ```
 
 ```
-Oh! give me a land where the bright diamond sand
+Oh! give me a space where the code kids race
 Throws its light from the glittering streams,
 Where glideth along the graceful white swan,
 Like the maid in her heavenly dreams.

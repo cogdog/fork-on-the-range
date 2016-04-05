@@ -5,7 +5,7 @@
 
 An experiment to see what it will take for people to fork a repo, by rewriting a line from the old (and thus public domain) [Home On the Range](https://en.wikipedia.org/wiki/Home_on_the_Range) the version by Dr. Brewster Higley (1876). 
 
-Better yet, [go to the repo[(https://github.com/cogdog/fork-on-the-range/tree/gh-pages) and fork [index.html](https://github.com/cogdog/fork-on-the-range/blob/gh-pages/fork-this.md) to edit this very file. It's in Markdown, which you do not need to know, just edit any part of the lyrics below. It's more fun to edit just a few lines, but hey, the only person stopping you is you.
+Better yet, [go to the repo](https://github.com/cogdog/fork-on-the-range/tree/gh-pages) and fork [index.html](https://github.com/cogdog/fork-on-the-range/blob/gh-pages/fork-this.md) to edit this very file. It's in Markdown, which you do not need to know, just edit any part of the lyrics below. It's more fun to edit just a few lines, but hey, the only person stopping you is you.
 
 Notice that the pattern is:
 

@@ -9,10 +9,10 @@ Better yet, [go to the repo](https://github.com/cogdog/fork-on-the-range/tree/gh
 
 Notice that the pattern is:
 
-1. Intro line with it's own rhyming couplet (*home* and *roam*)  "Oh, give me a *home* where the Buffalo *roam*"
-2. Second Like that builds and ends in a different rhyme worthy word "Where the deer and the antelope *play*"
-3. Third line with another couplet pair (*heard* and *word*), same rhythm as linen1 "Where seldom is *heard* a discouraging *word*"
-4. Fourth line matches and rhymes with line 2 "And the sky is not cloudy all *day*"
+1. Intro line with it's own rhyming couplet (**_home_** and **_roam_**)  "Oh, give me a **_home_** where the Buffalo **_roam*_*"
+2. Second Like that builds and ends in a different rhyme worthy word "Where the deer and the antelope **_play_**"
+3. Third line with another couplet pair (**_heard_** and **_word_**), same rhythm as linen1 "Where seldom is **_heard_** a discouraging **_word_**"
+4. Fourth line matches and rhymes with line 2 "And the sky is not cloudy all **_day_**"
 
 *EDIT BELOW THE LINE, OK?, each of the sections inside the ``` marks*
 
@@ -28,7 +28,7 @@ And the remixes happen all day.
 ```
 
 ```
-*CHORUS:*
+------------ CHORUS ------------ 
 A repo! A repo!
 Where the Brave and the Fearless play;
 Where seldom is heard a discouraging word,
@@ -43,7 +43,7 @@ Like the maid in her heavenly dreams.
 
 ```
 
-**Chorus**
+**------------ CHORUS ------------**
 
 ```
 Oh! give me a gale of the Solomon vale,
@@ -52,7 +52,7 @@ On the banks of the Beaver, where seldom if ever,
 Any poisonous herbage doth grow.
 ```
 
-**Chorus**
+**------------ CHORUS ------------**
 
 ```
 How often at night, when the heavens were bright,
@@ -61,7 +61,7 @@ Have I stood here amazed, and asked as I gazed,
 If their glory exceed that of ours.
 ```
 
-**Chorus**
+**------------ CHORUS ------------**
 
 ```
 I love the wild flowers in this bright land of ours,
@@ -70,7 +70,7 @@ The bluffs and white rocks, and antelope flocks
 That graze on the mountains so green.
 ```
 
-**Chorus**
+**------------ CHORUS ------------**
 
 ```
 The air is so pure and the breezes so fine,
@@ -79,6 +79,6 @@ That I would not exchange my home here to range
 Forever in azures so bright.
 ```
 
-**Chorus**
+**------------ CHORUS ------------**
 
 

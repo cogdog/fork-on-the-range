@@ -9,10 +9,12 @@ Better yet, [go to the repo](https://github.com/cogdog/fork-on-the-range/tree/gh
 
 Notice that the pattern is:
 
-    (1) Intro line that ends in a rhymmable word
-    (2) Second Like that builds and ends in another rhyme
-    (3) Third coupler HERE that rhymes again DEAR
-    (4) Bring together ends by rhyming line 2 in time
+1. Intro line with it's own rhyming couplet (*home* and *roam*)  "Oh, give me a *home* where the Buffalo *roam*"
+2. Second Like that builds and ends in a different rhyme worthy word "Where the deer and the antelope *play*"
+3. Third line with another couplet pair (*heard* and *word*), same rhythm as linen1 "Where seldom is *heard* a discouraging *word*"
+4. Fourth line matches and rhymes with line 2 "And the sky is not cloudy all *day*"
+
+*EDIT BELOW THE LINE, OK?, each of the sections inside the ``` marks*
 
 ------
 
@@ -25,9 +27,8 @@ Where seldom is fomented a negative comment,
 And the remixes happen all day.
 ```
 
-#### Chorus
-
 ```
+*CHORUS:*
 A repo! A repo!
 Where the Brave and the Fearless play;
 Where seldom is heard a discouraging word,

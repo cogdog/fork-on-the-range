@@ -74,4 +74,13 @@ That graze on the mountains so green.
 
 **------------ CHORUS ------------**
 
+```
+
+This is just to [say](google.ca) that I edited this part in my text editor
+And pushed it through the Github app...
+Because that would make more people comfortable... maybe...?
+You wouldn't even need to interface w/ Github beyond the initial clone.
+
+```
+
 

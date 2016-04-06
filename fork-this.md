@@ -48,10 +48,10 @@ Like the maid in her heavenly dreams.
 **------------ CHORUS ------------**
 
 ```
-Oh! give me a pale of the Soloman snail,
-Where the strife seams with joyancy grow;
+Oh! give me a chance to make a new branch,
+Where the where the rhymes get worse every day;
 On the banks of the Server, where always if never,
-Any contagious verbage doth crow.
+This old git plays with git his own way.
 ```
 
 **------------ CHORUS ------------**

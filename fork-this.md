@@ -48,10 +48,10 @@ Like the maid in her heavenly dreams.
 **------------ CHORUS ------------**
 
 ```
-Oh! give me a gale of the Solomon vale,
-Where the life streams with buoyancy flow;
-On the banks of the Beaver, where seldom if ever,
-Any poisonous herbage doth grow.
+Oh! give me a pale of the Soloman snail,
+Where the strife seams with joyancy grow;
+On the banks of the Server, where always if never,
+Any contagious verbage doth crow.
 ```
 
 **------------ CHORUS ------------**

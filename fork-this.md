@@ -82,8 +82,12 @@ Because that would make more people comfortable... maybe...?
 You wouldn't even need to interface w/ Github beyond the initial clone.
 
 ```
+
+**------------ CHORUS ------------**
+
+```
 Oh fork me some code like a palindrome node
 where it's fly, not dowdy or frayed.
 Where seldom there's Word, or a Micro$oft Nerd
 and the cry is never dismayed.
-
+```

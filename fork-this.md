@@ -4,14 +4,14 @@ http://cogdog.github.io/fork-on-the-range/
 
 ![forking the range](images/ranch.jpg  "home on the range")
 
-An [experiment]() to see what it will take for people to fork a repo, by rewriting a line from the old (and thus public domain) [Home On the Range](https://en.wikipedia.org/wiki/Home_on_the_Range) the version by Dr. Brewster Higley (1876). 
+An [experiment](http://cogdogblog.com/2016/04/github-forking/) to see what it will take for people to fork a repo, by rewriting a line from the old (and thus public domain) [Home On the Range](https://en.wikipedia.org/wiki/Home_on_the_Range) the version by Dr. Brewster Higley (1876).
 
 Better yet, [go to the repo](https://github.com/cogdog/fork-on-the-range/tree/gh-pages) and fork (edit) [fork-this.md](https://github.com/cogdog/fork-on-the-range/blob/gh-pages/fork-this.md) to edit this very file. It's in Markdown, which you do not need to know, just edit any part of the lyrics below. It's more fun to edit just a few lines, but hey, the only person stopping you is you.
 
 Notice that the pattern is:
 
 1. Intro line with it's own rhyming couplet (**_home_** and **_roam_**)  "Oh, give me a **_home_** where the Buffalo **_roam_**"
-2. Second Like that builds and ends in a different rhyme worthy word "Where the deer and the antelope **_play_**"
+2. Second line that builds and ends in a different rhyme worthy word "Where the deer and the antelope **_play_**"
 3. Third line with another couplet pair (**_heard_** and **_word_**), same rhythm as line 1 "Where seldom is **_heard_** a discouraging **_word_**"
 4. Fourth line matches and rhymes with line 2 "And the sky is not cloudy all **_day_**"
 
@@ -29,12 +29,12 @@ And the remixes happen all day.
 ```
 
 ```
------------- CHORUS ------------ 
+------------ CHORUS ------------
 A repo! A repo!
 Where the Brave and the Fearless play;
 Where seldom is heard a discouraging word,
 And the sky is not cloudy all day.
------------- CHORUS ------------ 
+------------ CHORUS ------------
 ```
 
 ```
@@ -90,4 +90,12 @@ Oh fork me some code like a palindrome node
 where it's fly, not dowdy or frayed.
 Where seldom there's Word, or a Micro$oft Nerd
 and the cry is never dismayed.
+```
+**------------ CHORUS ------------**
+
+```
+It's a cold Friday morn and wool socks need be worn
+To make sure your old toes don't turn blue
+The rain and the snow need to pack up and go
+'Cause it's April and we want something new.
 ```

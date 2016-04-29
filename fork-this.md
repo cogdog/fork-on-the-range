@@ -100,3 +100,11 @@ whether is pretty or staid.
 Where often I'm lost but at no extra cost
 and the Internet reguides my wayward ways.
 ```
+**------------ CHORUS ------------**
+
+```
+On GitHub I foam projecting code from my gnome
+whether is pretty or braid.
+Where often I'm lost but at no extra cost
+and the Internet reguides my wayward ways.
+```

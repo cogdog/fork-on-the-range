@@ -91,3 +91,12 @@ where it's fly, not dowdy or frayed.
 Where seldom there's Word, or a Micro$oft Nerd
 and the cry is never dismayed.
 ```
+
+**------------ CHORUS ------------**
+
+```
+On GitHub I roam vomitting code from my dome
+whether is pretty or staid.
+Where often I'm lost but at no extra cost
+and the Internet reguides my wayward ways.
+```

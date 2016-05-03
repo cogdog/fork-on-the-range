@@ -57,10 +57,10 @@ This old git plays with git his own way.
 **------------ CHORUS ------------**
 
 ```
-How often at night, when the heavens were bright,
-With the light of the twinkling stars
-Have I stood here amazed, and asked as I gazed,
-If their glory exceed that of ours.
+How often at night, when the Courier code's bright,
+'Gainst the background of vim or vi, 
+Did I sit there in shock, as the wrong file took the walk
+To the Great Bit Bucket in the Sky.
 ```
 
 **------------ CHORUS ------------**

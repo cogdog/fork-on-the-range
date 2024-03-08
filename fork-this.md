@@ -116,3 +116,12 @@ whether is pretty or braid.
 Where often I'm lost but at no extra cost
 and the Internet reguides my wayward ways.
 ```
+**------------ CHORUS ------------**
+
+...
+Forking one's code is just like an ode
+Giving thanks to the world which we have.
+Many Grecian urns could use modern turns
+Breathing life into old works of man.
+...
+**------------ CHORUS ------------**

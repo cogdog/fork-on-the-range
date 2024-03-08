@@ -26,93 +26,93 @@ Oh, fork me a repo where the edits go
 Where the Brave and the Fearless play;
 Where seldom is fomented a negative comment,
 And the remixes happen all day.
-```
+````
 
-```
+````
 ------------ CHORUS ------------ 
 A repo! A repo!
 Where the Brave and the Fearless play;
 Where seldom there's Word, or a Micro$oft Nerd
 and the cry is never dismayed.
 ------------ CHORUS ------------ 
-```
+````
 
-```
+````
 Oh! give me a space where the code kids race
 Throws its light from the glittering streams,
 Where glideth along the graceful white swan,
 Like the maid in her heavenly dreams.
 
-```
+````
 
 **------------ CHORUS ------------**
 
-```
+````
 Oh! give me a chance to make a new branch,
 Where the where the rhymes get worse every day;
 On the banks of the Server, where always if never,
 This old git plays with git his own way.
-```
+````
 
 **------------ CHORUS ------------**
 
-```
+````
 How often at night, when the Courier code's bright,
 'Gainst the background of vim or vi, 
 Did I sit there in shock, as the wrong file took the walk
 To the Great Bit Bucket in the Sky.
-```
+````
 
 **------------ CHORUS ------------**
 
-```
+````
 I love the wild flowers in this bright land of ours,
 I love the wild curlew's shrill scream;
 The bluffs and white rocks, and antelope flocks
 That graze on the mountains so green.
-```
+````
 
 **------------ CHORUS ------------**
 
-``
+````
 This is just to [say](google.ca) that I edited this part in my text editor
 And pushed it through the Github app...
 Because that would make more people comfortable... maybe...?
 You wouldn't even need to interface w/ Github beyond the initial clone.
 
-```
+`````
 
 
 **------------ CHORUS ------------**
-```
+````
 It's a cold Friday morn and wool socks need be worn
 To make sure your old toes don't turn blue
 The rain and the snow need to pack up and go
 'Cause it's April and we want something new.
-```
+````
  
 **------------ CHORUS ------------**
 
-```
+````
 Oh fork me some code like a palindrome node
 where it's fly, not dowdy or frayed.
 Where seldom there's Word, or a Micro$oft Nerd
 and the cry is never dismayed.
-```
+````
 
 **------------ CHORUS ------------**
 
-```
+````
 On GitHub I roam vomitting code from my dome
 whether is pretty or staid.
 Where often I'm lost but at no extra cost
 and the Internet reguides my wayward ways.
-```
+````
 **------------ CHORUS ------------**
 
-```
+````
 On GitHub I foam projecting code from my gnome
 whether is pretty or braid.
 Where often I'm lost but at no extra cost
 and the Internet reguides my wayward ways.
-```
+````
